@@ -52,3 +52,5 @@ Control: "Scroll the page down a bit."
 📂 frontend: The "Visual" part of the glasses. The HUD graphics live here.
 
 📄 start_atlas.py: The main switch that wakes up both the Brain and the HUD.
+![unnamed](https://github.com/user-attachments/assets/c81d4f9a-aa87-4736-9985-c68b47e4cdae)
+
