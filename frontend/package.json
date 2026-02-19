@@ -1,0 +1,26 @@
+{
+  "name": "jarvis-hud-os",
+  "version": "1.0.0",
+  "description": "AR Glass Interface for Desktop with AI Integration",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [
+    "electron",
+    "jarvis",
+    "ai",
+    "hud"
+  ],
+  "author": "Stark Industries",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "dependencies": {
+    "sound-play": "^1.1.0"
+  }
+}

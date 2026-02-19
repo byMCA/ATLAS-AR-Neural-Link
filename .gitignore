@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Environment Variables (ÇOK ÖNEMLİ)
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Electron Build
+dist/
+release/
+*.exe
+*.dmg
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+backend/logs/
